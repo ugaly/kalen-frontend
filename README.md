@@ -2,7 +2,7 @@
 
 A modern, responsive healthcare dashboard built for doctors and medical professionals to monitor patient vitals in real-time. This application provides an intuitive interface for tracking heart rate, blood pressure, oxygen saturation, and temperature across multiple patients.
 
-![Healthcare Dashboard](https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=800&h=400&fit=crop)
+![Healthcare Dashboard](https://i.postimg.cc/N0n2dQDN/Screenshot-2025-06-12-at-18-53-09.png)
 
 ## ✨ Features
 

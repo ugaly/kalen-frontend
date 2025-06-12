@@ -4,6 +4,9 @@ A modern, responsive healthcare dashboard built for doctors and medical professi
 
 ![Healthcare Dashboard](https://i.postimg.cc/N0n2dQDN/Screenshot-2025-06-12-at-18-53-09.png)
 ![Healthcare Dashboard](https://i.postimg.cc/KvQz9Zvn/Screenshot-2025-06-12-at-23-09-25.png)
+![Healthcare Dashboard](https://i.postimg.cc/QxnD9Vdn/Screenshot-2025-06-12-at-23-17-35.png)
+
+
 
 
 ## ✨ Features

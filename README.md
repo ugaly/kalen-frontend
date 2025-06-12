@@ -129,28 +129,6 @@ npm run dev
 - **Red indicators**: Critical levels that need attention
 - **Pulsing badges**: Active alerts requiring immediate attention
 
-## 📁 Project Structure
-
-\`\`\`
-healthcare-dashboard/
-├── app/                    # Next.js app directory
-│   ├── layout.tsx         # Main layout component
-│   └── page.tsx           # Home page
-├── components/            # Reusable UI components
-│   ├── ui/               # shadcn/ui components
-│   ├── dashboard.tsx     # Main dashboard component
-│   ├── patient-vitals-card.tsx
-│   ├── patient-details-modal.tsx
-│   └── ...
-├── hooks/                # Custom React hooks
-│   └── use-patient-data.tsx
-├── lib/                  # Utility functions
-│   ├── utils.ts
-│   └── mock-data.ts
-├── types/                # TypeScript type definitions
-│   └── index.ts
-└── README.md            # This file
-\`\`\`
 
 ## 🔧 Available Scripts
 
